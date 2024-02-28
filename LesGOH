@@ -1,0 +1,2 @@
+if TAIKO == BTC:
+  print("TAIKO MOON")
